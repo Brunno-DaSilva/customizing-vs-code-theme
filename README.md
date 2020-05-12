@@ -19,7 +19,7 @@ Microsoft VS Code\resources\app\extensions\theme-tomorrow-night-blue\themes
 
 ##### Full path:
 
-C:\Users\myUsername\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\AnyActiveTheme\themes
+`C:\Users\myUsername\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\AnyActiveTheme\themes`
 
 ![File Explorer](folderLocation.png)
 
@@ -57,5 +57,6 @@ My favorite Color Theme is the Tomorrow Night Blue, but there are couple of thin
 3. Grab the scope name of the element
    A. Highlight any part of your code
    B. The Developer Inspect Editor Tokens And Scopes will give a set of information of the highlighted element
+   C. In our case, we are targeting the value of a <button>, this value has a scope of a `meta.tag`
 
 ![Get Scopes](FindingElementName.png)
