@@ -46,17 +46,33 @@ My favorite Color Theme is the Tomorrow Night Blue, but there are couple of thin
    or
    Click on CTRL+SHIFT+P
 
-![Command Pallet](commandPallet.png)
+![Command Pallet](CommandPallet.png)
 
 2. Open the Developer Inspect Editor Tokens And Scopes
    A. Search for the Developer Inspect Editor Tokens And Scopes
+
    B. Click on it
 
 ![Developer Inspect Editor Tokens And Scopes](InspectEditorTokensAndScopes.png)
 
 3. Grab the scope name of the element
    A. Highlight any part of your code
-   B. The Developer Inspect Editor Tokens And Scopes will give a set of information of the highlighted element
-   C. In our case, we are targeting the value of a <button>, this value has a scope of a `meta.tag`
 
-![Get Scopes](FindingElementName.png)
+   B. The Developer Inspect Editor Tokens And Scopes will give a set of information of the highlighted element
+
+   C. In my case, I am targeting the value of a <button>, this value has a scope name of `meta.tag`
+
+   ![Get Scopes](FindingElementName.png)
+
+4. Locate and change the scope value on the Color Theme JSON file.
+   A. Copy the scope name `meta.tag`
+
+   B. Head to the Color Theme JSON file `tomorrow-night-blue-theme.json`
+
+   C. Search for the scope name in the file
+   ![Search for the scope](searchingForScopeName.png)
+
+   D. Create a new scope section or jump to step `E`
+   ![Create a new scope section](creatingScope.png)
+
+   E. Change it's color as desired and repeat the process

@@ -93,18 +93,17 @@
       }
     },
     {
-      "name": "Entity Attribute-name",
-      "scope": "entity.other.attribute-name",
-      "settings": {
-        "foreground": "#99FFFF"
-      }
-    },
-
-    {
       "name": "Tag Name",
       "scope": "meta.tag",
       "settings": {
         "foreground": "#fff8db"
+      }
+    },
+    {
+      "name": "Entity Attribute-name",
+      "scope": "entity.other.attribute-name",
+      "settings": {
+        "foreground": "#99FFFF"
       }
     },
     {
