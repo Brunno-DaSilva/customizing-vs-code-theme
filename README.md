@@ -20,7 +20,7 @@ If your main installation folder is located somewhere else, head there and navig
 Full path:
 C:\Users\myUsername\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\AnyActiveTheme\themes
 
-![File Explorer](screenshot.png)
+![File Explorer](folderLocation.png)
 
 2. Copy the origin JSON file or follow your own Backup method
 
