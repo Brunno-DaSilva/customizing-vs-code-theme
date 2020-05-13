@@ -78,7 +78,9 @@ My favorite Color Theme is the Tomorrow Night Blue, but there are couple of thin
 
 ![Search for the scope](searchingForScopeName.png)
 
-    D. Create a new scope section - or jump to step `E`- by extracting the `meta.tag` from its current scope and creating a new "Object" to hold it, with name scope, and settings (Settings is the part where will hold the style, `foreground: "#ff8db` )
+    D. Create a new scope section - or jump to step `E`- by extracting the `meta.tag`
+    from its current scope and creating a new "Object" to hold it, with name scope,
+    and settings (Settings is the part where will hold the style, `foreground: "#ff8db` )
 
 ![Create a new scope section](creatingScope.png)
 
