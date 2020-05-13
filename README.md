@@ -85,3 +85,5 @@ My favorite Color Theme is the Tomorrow Night Blue, but there are couple of thin
 ![Create a new scope section](creatingScope.png)
 
     E. Change it's color as desired and repeat the process
+
+### This is a simple way on how you can customize your VS code Color Theme.
