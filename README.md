@@ -86,4 +86,4 @@ My favorite Color Theme is the Tomorrow Night Blue, but there are couple of thin
 
     E. Change it's color as desired and repeat the process
 
-### This is a simple way on how you can customize your VS code Color Theme.
+### Here is a simple way to customize your VS code Color Theme.
